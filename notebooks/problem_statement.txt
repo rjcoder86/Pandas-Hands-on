@@ -1,0 +1,1 @@
+You are provided with a dataset from a supermarket containing information about sales transactions. Your task is to perform data manipulation and analysis using pandas to extract insights from the data. You will clean the data, perform various aggregations, filter the data based on specific conditions, and visualize the results.
